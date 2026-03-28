@@ -62,4 +62,12 @@ To↑shi↑nou→Kyou↓ko↓!
 #yryr #yuruyiri
 ```
 
-**图片**：![Pic-1](./example/岁纳京子-1.jpg)![Pic-2](./example/岁纳京子-2.jpg)![Pic-3](./example/岁纳京子-3.jpg)![Pic-4](/example/岁纳京子-4.jpg)
+**图片**：
+<table>
+  <tr>
+    <td><img src="./example/岁纳京子-1.jpg" width="200"></td>
+    <td><img src="./example/岁纳京子-2.jpg" width="200"></td>
+    <td><img src="./example/岁纳京子-3.jpg" width="200"></td>
+    <td><img src="./example/岁纳京子-4.jpg" width="200"></td>
+  </tr>
+</table>
