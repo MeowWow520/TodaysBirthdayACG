@@ -9,7 +9,7 @@
 ### 记录形式
 
 分类： 在 `Birthdays` 文件夹中以“月份”为类别，子文件夹“日期”，在日期文件夹中使用 `day-xx.xx.md` 记录。
-如 `./Birthdays/01-20/day-01.20.md`
+如 `./Birthdays/January/01-20/day-01.20.md`
 
 记录： 在 `.md` 文件中，按照以下的主框架：
 ```md
@@ -30,44 +30,22 @@
 注：上记录中发帖使用的 4 张图片将保存在 `日期` 文件夹下的 `pic` 文件夹中，文件名使用 `中文名-{序号}.扩展名`。如：`杉浦绫乃-1.jpg`
 #### 示例
 
-\#\#\#\# 01月20日
+见 --> [example.md](./example.md)
 
-\#\#\#\#\# 岁纳京子
-
-**其他名字**： Toshinō Kyōko | 歳納（としのう） 京子（きょうこ）
-
-**来自<番剧/漫画>**：摇曳百合
-
-**<摇曳百合>的别称**：yuruyiri | 轻松百合
-
-**萌属性**： 紫发、 傲娇
-
-**祝词**：
+### 仓库目录
 ```
-Today is the birthday of the lively KyōkoToshinō from Yuru Yuri!❤️
-
-To↑shi↑nou→Kyou↓ko↓!
-
-
-#歳納京子生诞祭2026
-#yryr #yuruyiri
+📁 TodaysBirthdayACG/
+├── 📁 Birthdays/                # 生日资源目录
+│   ├── 📁 January/              # 按月份分类
+│   │   └── 📁 01-02/            # 按日期（月-日）
+│   │       ├── 📁 pic/          # 图片资源
+│   │       └── day-01.02.md     # 当天主文档
+│   ├── 📁 February/
+│   │   └── 📁 02-01/
+│   └── ...
+├── 📁 example/                  # 示例文件夹
+├── example.md                   # 示例文档
+├── LICENSE                      # 开源许可证
+├── README.md                    # 项目说明文档
+└── ...
 ```
-```
-今天是摇曳百合里活泼的岁纳京子的生日！❤️
-
-To↑shi↑nou→Kyou↓ko↓!
-
-
-#歳納京子生诞祭2026
-#yryr #yuruyiri
-```
-
-**图片**：
-<table>
-  <tr>
-    <td><img src="./example/岁纳京子-1.jpg" width="200"></td>
-    <td><img src="./example/岁纳京子-2.jpg" width="200"></td>
-    <td><img src="./example/岁纳京子-3.jpg" width="200"></td>
-    <td><img src="./example/岁纳京子-4.jpg" width="200"></td>
-  </tr>
-</table>
