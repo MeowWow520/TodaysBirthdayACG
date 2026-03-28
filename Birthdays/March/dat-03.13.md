@@ -33,3 +33,42 @@ The scene in the anime where Kurugaya and Riki get trapped in that loop left a r
   </tr>
 </table>
 
+
+## 保登摩卡
+
+**其他名字**： Hoto Moka | 保登（ほと） モカ
+
+**来自<番剧>**：今天也要来点兔子吗？
+
+**<番剧>的别称**：点兔 | Is the Order a Rabbit? | ご注文はうさぎですか？
+
+**萌属性**： 姐姐、 妹控
+
+**祝词**：
+```
+今天是《今天也要来点兔子吗？》里心爱的姐姐保登摩卡的生日！
+摩卡标志性的动作“就交给姐姐吧！”是整个番剧最有趣的部分之一。
+
+
+#保登モカ生誕祭2026 
+#ご注文はうさぎですか
+```
+```
+Today is Mocha Hoto's birthday from *Is the Order a Rabbit?*, the big-sister figure of Cocoa! 🎂🎂🎂
+
+Mocha's signature line "Leave it to your big sis!" is one of the most fun and memorable parts of the entire series.
+
+#保登モカ生誕祭2026 
+#gochiusa 
+#ご注文はうさぎですか
+
+```
+**图片**：
+<table>
+  <tr>
+    <td><img src="./pic/保登摩卡-1.jpg" width="200"></td>
+    <td><img src="./pic/保登摩卡-2.jpg" width="200"></td>
+    <td><img src="./pic/保登摩卡-3.jpg" width="200"></td>
+    <td><img src="./pic/保登摩卡-4.jpg" width="200"></td>
+  </tr>
+</table>
