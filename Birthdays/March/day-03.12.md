@@ -21,7 +21,7 @@ Yuki Suou is so cute٩(๑^o^๑)۶, she always makes those weird little noises 
 **图片**：
 <table>
   <tr>
-    <td><img src="./pic/周防有希-1.jpg" width="200"></td>
-    <td><img src="./pic/周防有希-2.jpg" width="200"></td>
+    <td><img src="./pic/周防有希/001.jpg" width="200"></td>
+    <td><img src="./pic/周防有希/002.jpg" width="200"></td>
   </tr>
 </table>

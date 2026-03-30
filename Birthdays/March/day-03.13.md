@@ -29,7 +29,7 @@ The scene in the anime where Kurugaya and Riki get trapped in that loop left a r
 **图片**：
 <table>
   <tr>
-    <td><img src="./pic/来谷唯湖-1.jpg" width="200"></td>
+    <td><img src="./pic/来谷唯湖/001.jpg" width="200"></td>
   </tr>
 </table>
 
@@ -65,9 +65,9 @@ Mocha's signature line "Leave it to your big sis!" is one of the most fun and me
 **图片**：
 <table>
   <tr>
-    <td><img src="./pic/保登摩卡-1.jpg" width="200"></td>
-    <td><img src="./pic/保登摩卡-2.jpg" width="200"></td>
-    <td><img src="./pic/保登摩卡-3.jpg" width="200"></td>
-    <td><img src="./pic/保登摩卡-4.jpg" width="200"></td>
+    <td><img src="./pic/保登摩卡/001.jpg" width="200"></td>
+    <td><img src="./pic/保登摩卡/002.jpg" width="200"></td>
+    <td><img src="./pic/保登摩卡/003.jpg" width="200"></td>
+    <td><img src="./pic/保登摩卡/004.jpg" width="200"></td>
   </tr>
 </table>
