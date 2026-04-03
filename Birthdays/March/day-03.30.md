@@ -3,6 +3,8 @@
 
 
 ## 西园美鸟
+**祝词**：
+
 ```
 Today is the birthday of Nishizono Midori, the second personality of Nishizono Mio from Little Busters!
 #西園美鳥生诞祭2026 
