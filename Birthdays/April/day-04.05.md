@@ -18,9 +18,9 @@ Does anyone know that Roka actually has feelings for Iroha?
 **图片**：
 <table>
   <tr>
-    <td><img src="./pic/绫䌷芦花/001.jpg" width="200"></td>
-    <td><img src="./pic/绫䌷芦花/002.jpg" width="200"></td>
-    <td><img src="./pic/绫䌷芦花/003.jpg" width="200"></td>
+    <td><img src="./pic/绫䌷芦花/001.png" width="200"></td>
+    <td><img src="./pic/绫䌷芦花/002.png" width="200"></td>
+    <td><img src="./pic/绫䌷芦花/003.png" width="200"></td>
   </tr>
 </table>
 
@@ -35,7 +35,7 @@ April 5 is the birthday of Ibuki Hinata from A Bridge to the Starry Skies.
 **图片**：
 <table>
   <tr>
-    <td><img src="./pic/日向伊吹/001.jpg" width="200"></td>
+    <td><img src="./pic/日向伊吹/001.png" width="200"></td>
   </tr>
 </table>
 
@@ -58,9 +58,9 @@ April 5th is the birthday of Komari Kamikita from Little Busters!
 **图片**：
 <table>
   <tr>
-    <td><img src="./pic/神北小毬/001.jpg" width="200"></td>
-    <td><img src="./pic/神北小毬/002.jpg" width="200"></td>
-    <td><img src="./pic/神北小毬/003.jpg" width="200"></td>
+    <td><img src="./pic/神北小毬/001.png" width="200"></td>
+    <td><img src="./pic/神北小毬/002.png" width="200"></td>
+    <td><img src="./pic/神北小毬/003.png" width="200"></td>
   </tr>
 </table>
 
@@ -83,7 +83,7 @@ Bloom Into You does a wonderful job with its inner monologue and psychological d
 **图片**：
 <table>
   <tr>
-    <td><img src="./pic/小糸侑/001.jpg" width="200"></td>
-    <td><img src="./pic/小糸侑/002.jpg" width="200"></td>
+    <td><img src="./pic/小糸侑/001.png" width="200"></td>
+    <td><img src="./pic/小糸侑/002.png" width="200"></td>
   </tr>
 </table>
