@@ -2,30 +2,16 @@
 
 ## 岁纳京子
 
-**其他名字**： Toshinō Kyōko | 歳納（としのう） 京子（きょうこ）
-
-**来自<番剧/漫画>**：摇曳百合
-
-**<摇曳百合>的别称**：yuruyiri | 轻松百合
-
-**萌属性**： 黄发、 抖M
-
 **祝词**：
 ```
 Today is the birthday of the lively KyōkoToshinō from Yuru Yuri!❤️
-
 To↑shi↑nou→Kyou↓ko↓!
-
-
 #歳納京子生诞祭2026
 #yryr #yuruyiri
 ```
 ```
 今天是摇曳百合里活泼的岁纳京子的生日！❤️
-
 To↑shi↑nou→Kyou↓ko↓!
-
-
 #歳納京子生诞祭2026
 #yryr #yuruyiri
 ```
