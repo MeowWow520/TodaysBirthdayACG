@@ -20,9 +20,9 @@ When they first met, she was sitting on a suitcase.
 **图片**：
 <table>
   <tr>
-    <td><img src="./pic/久岛鸥/001.jpg" width="200"></td>
-    <td><img src="./pic/久岛鸥/002.jpg" width="200"></td>
-    <td><img src="./pic/久岛鸥/003.jpg" width="200"></td>
+    <td><img src="./pic/久岛鸥/001.png" width="200"></td>
+    <td><img src="./pic/久岛鸥/002.png" width="200"></td>
+    <td><img src="./pic/久岛鸥/003.png" width="200"></td>
   </tr>
 </table>
 
